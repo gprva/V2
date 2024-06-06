@@ -292,3 +292,81 @@ margin: 6% 0;
 	justify-content: space-evenly;	
 	gap: 8%;
 }
+
+/* project */
+
+.project_txt{
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 22px;
+	letter-spacing: 4px;
+	text-align: left;
+	color: #B16CEA;	
+}
+.project_tit{
+	font-family: Roboto;
+	font-size: 54px;
+	font-weight: 700;
+	line-height: 59.4px;
+	letter-spacing: 1px;
+	text-align: left;
+	width: 480px;	
+	margin-top: 4%;
+}
+.project_btn{
+	width: 10%;
+	height: 10%;
+	padding: 13px; 
+	background: black;
+	color: white;
+	align-self: center;
+}
+.project_cards{
+	margin-bottom: 6%;
+}
+.project_card_img_txt{
+	font-family: Roboto;
+font-size: 14px;
+font-weight: 700;
+line-height: 14px;
+letter-spacing: 4px;
+text-align: left;
+color: #3C46FF;
+}
+.project_card_img_tit{
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 26.4px;
+	text-align: left;
+	
+}
+.project_card_img_tit_img{
+	width: 335px;
+    height: 17px;	
+	margin: 3% 2%;
+}
+.project_card_img_tit{
+	font-family: Roboto;
+font-size: 24px;
+font-weight: 700;
+line-height: 26.4px;
+text-align: left;
+margin: 1% 2%;
+}
+.project_card_img_txt{
+	font-family: Roboto;
+font-size: 14px;
+font-weight: 700;
+line-height: 14px;
+letter-spacing: 4px;
+text-align: left;
+color: #3C46FF;
+margin: 2% 2% 0;
+
+}
+.project_cards_img{
+	gap: 4%;
+	justify-content: space-around;
+}
