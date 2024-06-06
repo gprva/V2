@@ -225,3 +225,70 @@ width: 555px;
 .trusted_cards{
 	justify-content: space-around;
 }
+
+/* service */
+.services_min_tit{
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 22px;
+	letter-spacing: 4px;
+	text-align: center;
+	color: #FF5E69;	
+}
+.services_tit{
+	font-family: Roboto;
+	font-size: 54px;
+	font-weight: 700;
+	line-height: 59.4px;
+	letter-spacing: 1px;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 8%;
+	width: 768px;
+}
+.service_card_tit{
+	font-family: Roboto;
+font-size: 24px;
+font-weight: 700;
+line-height: 26.4px;
+text-align: left;
+
+}
+.service_card_txt{
+	font-family: Roboto;
+font-size: 16px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+color: #666666;
+width: 252px;
+margin: 6% 0;
+}
+.ic3,
+.ic2,
+.ic{
+	background: url(../img/service1.png)no-repeat;
+    width: 70px;
+	height: 70px;
+	margin-bottom: 6%;
+}
+.ic2{
+	background: url(../img/service2.png)no-repeat;
+}
+.ic3{
+	background: url(../img/service3.png)no-repeat;
+}
+.service_li{
+	list-style-type: square;
+	font-family: Roboto;
+	font-size: 19px;
+	font-weight: 700;
+	line-height: 28px;
+	text-align: left;
+	margin-bottom: 2%;
+}
+.service_cards{
+	justify-content: space-evenly;	
+	gap: 8%;
+}
