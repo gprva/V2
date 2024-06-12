@@ -370,3 +370,43 @@ margin: 2% 2% 0;
 	gap: 4%;
 	justify-content: space-around;
 }
+
+/* designer */
+.designer_tit{
+	font-family: Roboto;
+	font-size: 22px;
+	font-weight: 700;
+	line-height: 22px;
+	letter-spacing: 4px;
+	text-align: left;
+	color: #FF5E69;
+	margin-bottom: 1%;
+}
+.designer_tittle{
+	font-family: Roboto;
+	font-size: 54px;
+	font-weight: 700;
+	line-height: 59.4px;
+	letter-spacing: 1px;
+	text-align: left;
+}
+.designer_txt{
+	font-family: Roboto;
+font-size: 22px;
+font-weight: 400;
+line-height: 40px;
+text-align: left;
+color: #666666;
+width: 625px;
+}
+.designer_texts{
+	justify-content: space-between;
+	margin-bottom: 9%;
+}
+.designer_imgg_mb{
+	margin-bottom: 5%;
+}
+.designer_imges{
+	justify-content: normal;
+	gap: 4%;
+}
